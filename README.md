@@ -6,8 +6,10 @@ for this data anlysis, we use visual studio with python.
 # How many votes were cast in this congressional election?
    
     
-    ![Alt text](Resources/result_screenshot.png)
-      <img src="./Resources/result_screenshot.png" alt="ResultTable" />
+      ![](Resources/result_screensho.png)
+    
+    
+     
       
     From the table above, the total number of votes is 369,711 from three counties, including Jefferson, Denver, and Arapahoe. 
     Among voters, votes from Jefferson are about 10.5% of total votes with the number of 38855, among the total number of votes.

@@ -4,7 +4,7 @@ The purpose of the election data shows the winner, total vote and its percentage
 # Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 for this data anlysis, we use visual studio with python. 
 # How many votes were cast in this congressional election?
-    ![image](https://github.com/iparxan/Module3-challenge/blob/main/Resources/result_screenshot.png, "result_screenshot")
+    ![image](/Resources/result_screenshot.png, "result_screenshot")
 From the table above, the total number of votes is 369,711 from three counties, including Jefferson, Denver, and Arapahoe. Among voters, votes from Jefferson are about 10.5% of total votes with the number of 38855, among the total number of votes. Same as for Denver with 82.8% with a total number of 306055. For Arapahoe, the percentage from total votes equals 6.7%, with the total local number of votes as 24801. 
 
 # Which county had the largest number of votes?

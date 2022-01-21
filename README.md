@@ -7,7 +7,7 @@ for this data anlysis, we use visual studio with python.
    
     
   
-    ![result_screenshot](https://user-images.githubusercontent.com/70416382/150484712-105173a9-1da3-4805-b17c-d902844146df.png)
+  ![result_screenshot](https://user-images.githubusercontent.com/70416382/150484712-105173a9-1da3-4805-b17c-d902844146df.png)
 
     
      
